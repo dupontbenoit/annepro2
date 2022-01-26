@@ -5,7 +5,7 @@ Color profile to emulate a white RGB backlight color on the ANNE PRO 2 keyboard.
 
 ## Howto
 
-1. Download the color profile file **AnnePro2-White.json**.
+1. Download the color profile file [**AnnePro2-White.json**](https://raw.githubusercontent.com/dupontbenoit/annepro2/main/AnnePro2-White.json).
 2. Open ObinsKit software.
 3. Goto the *Lightbulb* icon.
 4. Next to the *Profile Detail* click to the *Import* icon.
